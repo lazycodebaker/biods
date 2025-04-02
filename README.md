@@ -51,9 +51,6 @@ const turn_padding = 100; // Screen edge avoidance buffer
 const turn_factor = 0.2;  // Steering force at screen edges
 ```
 
-## Example Output
-![Simulation Output](output.png)
-
 ## License
 This project is released under the MIT License.
 
